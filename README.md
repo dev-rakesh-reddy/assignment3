@@ -9,8 +9,7 @@
           margin-right: 150px;
           margin-left: 100px;
           background-color: lightblue;
-        </style> 
-        }
+        </style> }
 <title> MY WEB SITE </title>  
         
    <head>  <div style="background-color:black;color:white;padding:100px;">
@@ -40,4 +39,4 @@ My favorites change rarely… in fact very rarely. I have never read a book in m
 
 </ol>
 </body>
-</html>    # assignment1
+</html>
